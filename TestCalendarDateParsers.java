@@ -14,7 +14,7 @@ import java.util.Scanner;
 **
 **
 ** Authors: R. McCloskey and P.M.J.
-** Date: Oct. 22, 2015
+** Date: Sept. 30, 2015
 */
 
 public class TestCalendarDateParsers {
